@@ -13,11 +13,9 @@ göndermek için kullandığımız kod Yalnız git push komutunu direk kullanmak
             git remote add origin adres
             git push -u origin master
 Not: Yukarıdaki iki komutu tek seferde kullandıktan sonra ikinci commit'lerim için sadece git push
-<<<<<<< HEAD
+
 kullanırız.
-=======
-kullanırız
-Not gşthub ogrendim
->>>>>>> bea90f289f7db4efa4a3a44eeb06edb312a8514f
+Not: github ogrendim
+
      */
 }
