@@ -1,6 +1,7 @@
 public class Day2GitGithub {
 
     /*
+    git github
     1-) git init --> Local repo oluşturmak için yani .git ile klasörümüzün
 içindeki dosyaları ilişkilendirmek için kullanılır
 2-) git add . --> Working space'den (yani yerel) dosyalarımı staging area'ya
