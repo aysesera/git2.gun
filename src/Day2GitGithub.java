@@ -1,4 +1,5 @@
 public class Day2GitGithub {
+
     /*
     1-) git init --> Local repo oluşturmak için yani .git ile klasörümüzün
 içindeki dosyaları ilişkilendirmek için kullanılır
@@ -18,4 +19,7 @@ kullanırız.
 Not: github ogrendim
 
      */
+    public static void main(String[] args) {
+        System.out.println("Gşthub 2.class");
+    }
 }
